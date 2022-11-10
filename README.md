@@ -1,5 +1,5 @@
 # ELIBdownloader
-Tool for books download from e-lib.nsu.ru
+Tool for download from e-lib.nsu.ru
 
 `pip intall -r req.txt`
 
